@@ -1,0 +1,15 @@
+/Users/krr/Desktop/dom_zadachi/zadacha4/bin/Debug/net7.0/zadacha4
+/Users/krr/Desktop/dom_zadachi/zadacha4/bin/Debug/net7.0/zadacha4.deps.json
+/Users/krr/Desktop/dom_zadachi/zadacha4/bin/Debug/net7.0/zadacha4.runtimeconfig.json
+/Users/krr/Desktop/dom_zadachi/zadacha4/bin/Debug/net7.0/zadacha4.dll
+/Users/krr/Desktop/dom_zadachi/zadacha4/bin/Debug/net7.0/zadacha4.pdb
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/zadacha4.csproj.AssemblyReference.cache
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/zadacha4.AssemblyInfoInputs.cache
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/zadacha4.AssemblyInfo.cs
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/zadacha4.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/zadacha4.dll
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/refint/zadacha4.dll
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/zadacha4.pdb
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/zadacha4.genruntimeconfig.cache
+/Users/krr/Desktop/dom_zadachi/zadacha4/obj/Debug/net7.0/ref/zadacha4.dll
